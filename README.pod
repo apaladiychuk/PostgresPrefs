@@ -5,13 +5,9 @@
 =begin html
 
 <br />
-<div style="position:relative">
 <img src="https://raw.github.com/mckenfra/postgresql-mac-preferences/master/PostgreSQL/Images/elephant.png" />
 <img src="https://raw.github.com/mckenfra/postgresql-mac-preferences/master/PostgreSQL/Images/logo.png" />
-<div style="position:absolute;top:0;right:0;">
-<a href="http://mac.softpedia.com/get/Internet-Utilities/PostgresPrefs.shtml#status"><img src="http://s1.softpedia-static.com/_img/sp100clean.png?1" /></a>
-</div>
-</div>
+<a href="http://mac.softpedia.com/get/Internet-Utilities/PostgresPrefs.shtml#status"><img align="right" src="http://s1.softpedia-static.com/_img/sp100clean.png?1" /></a>
 
 =end html
 

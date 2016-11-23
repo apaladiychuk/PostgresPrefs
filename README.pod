@@ -404,8 +404,6 @@ However, from version 2.1 onwards, Postgre Preferences automatically detects and
 <ul>
     <li><a href="http://www.postgresql.org">www.postgresql.org</a></li>
 
-    <li>Man pages for <a href="https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/launchd.8.html">launchd</a> and <a href="https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/launchctl.1.html">launchctl</a></li>
-
     <li><a href="http://www.maccatech.com">www.maccatech.com</a></li>
 </ul>
 
